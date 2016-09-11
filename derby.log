@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Nov 25 19:01:07 EET 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0149-e7e6-41a6-000001e7ec98 
+on database directory /home/ramez/NetBeansProjects/OCE (2)/DB  with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/home/ramez/NetBeansProjects/OCE%20(2)/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b17
+user.dir=/home/ramez/NetBeansProjects/OCE (2)
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
